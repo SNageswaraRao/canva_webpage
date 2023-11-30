@@ -1,0 +1,12 @@
+<html>
+	<head>
+	<title>project1</title>
+	</head>
+<body>
+<table>
+	<tr>
+	<img src="C:\Users\HP\Downloads\Nagaraj_03.jpg">/
+	</tr>
+</table>
+</body>
+</html>
